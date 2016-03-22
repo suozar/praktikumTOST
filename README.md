@@ -40,9 +40,17 @@ Kemudian buka Readme.html yang ada dalam folder tujuan Installer
 
    1. masuk pada play store, dan cari ODK Connect.
    2. kemudian install seperti biasa.
-    > note:ODK Connect juga tersedia pada website opendatakit.com.
-
+> note:ODK Connect juga tersedia pada website opendatakit.com.
    3. kemudian buka applikasinya dan setting server sesuai dengan host yang disetting saat installasi.
    4. masuk kemenu Get Form, tunggu hingga selesai, kembali ke menu utama.
    5. kemudian masuk kemenu Fill Black Form, dan isikan data sesuai keinginan, dan kembali kemenu utama.
    6. Kirim hasil form dengan menggunakan menu Send Finalize Form.
+
+##Picture
+
+![alt text][1] <br>
+![alt text][2]
+
+
+  [1]: https://github.com/suozar/praktikumTOST/blob/master/Docs/satu.png
+  [2]: https://github.com/suozar/praktikumTOST/blob/master/Docs/dua.png
